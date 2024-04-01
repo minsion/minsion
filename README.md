@@ -1,8 +1,9 @@
-### Hi there 👋
+### Welcome to have a look 👋
 
+![info](https://github-readme-stats.vercel.app/api?username=minsion&show_icons=true&count_private=true&hide=prs&theme=dark)
+
+🔭  I am currently learning algorithm ~
 <!--
-**minsion/minsion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
