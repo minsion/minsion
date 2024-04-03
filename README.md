@@ -1,6 +1,4 @@
-### your fingertips have the power change the world
-### 1.博客地址：[https://minsion.github.io/me/](https://minsion.github.io/me/)
-### 2.vue3-admin-vite系统后台地址：[https://minsion.github.io/vue3-admin-vite/#/login/](https://minsion.github.io/vue3-admin-vite/#/login)
+### your fingertips have the power change the world [https://minsion.github.io/me/](https://minsion.github.io/me/)
 <div style="display: flex">
   <img style="height: 195px; margin-right: 20px;" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minsion&layout=compact&theme=Gradient" />
   <img style="flex: 1" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=minsion&show_icons=true&theme=Gradient" />
