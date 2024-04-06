@@ -5,5 +5,4 @@
 </div>
 
 ### My GitHub Contributions
-
 ![](https://raw.githubusercontent.com/minsion/minsion/main/assets/github-contribution-grid-snake.svg)
