@@ -1,4 +1,5 @@
 ### your fingertips have the power change the world
+<div>微信：minsion2024</div>
 <div>B站：https://space.bilibili.com/551408088</div>
 <div>twitter：https://twitter.com/zzminsion</div>
 <br />
