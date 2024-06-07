@@ -7,7 +7,7 @@
 ![info](https://github-readme-stats.vercel.app/api/top-langs/?username=minsion&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
 
 <div style="display: flex">
-<!--   <img style="height: 150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minsion&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /> -->
+<img style="height: 150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minsion&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 </div>
 
 ### My GitHub Contributions
