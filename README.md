@@ -4,7 +4,7 @@
 <div>twitter：https://twitter.com/zzminsion</div>
 
 
-<div style="display: flex">
+<div style="display: flex;margin: 10px">
   <img style="height: 150px;" src="https://github-readme-stats.vercel.app/api?username=minsion&show_icons=true&count_private=true&hide=prs&bg_color=0,73FA79,73FDFF,D783FF&theme=default_repocard" />
   <img style="height: 150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minsion&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 </div>
