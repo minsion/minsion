@@ -1,7 +1,7 @@
 ### your fingertips have the power change the world
 <div>微信：minsion2024</div>
 <div>B站：<a href="https://space.bilibili.com/551408088" target="_blank">https://space.bilibili.com/551408088</a></div>
-<div>twitter：https://twitter.com/zzminsion</div>
+<div style="margin-bottom: 10px">twitter：https://twitter.com/zzminsion</div>
 
 
 ![info](https://github-readme-stats.vercel.app/api?username=minsion&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
