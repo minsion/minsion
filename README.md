@@ -17,7 +17,7 @@ Hi 👋 I'am minsion
 <br />
 <div>twitter：https://twitter.com/zzminsion</div>
 <br />
-<div>https://minsion.github.io/apecode</div>
+<div>技术博客：https://minsion.github.io/apecode</div>
 
 
 <div style="display: flex;margin: 10px">
