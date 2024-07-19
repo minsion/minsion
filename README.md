@@ -4,7 +4,7 @@ I'm minsion, a web developer from Zhengzhou, China. I love programming, both as 
 
 ### My work 🔭
 
-- I work as a frontend engineer for [website](https://www.coincarp.com/)
+- I work as a remote front-end engineer in Seattle
 - I code a lot, mainly in JavaScript [view repositories](https://github.com/minsion?tab=repositories)
 
 ### Contact 📫
